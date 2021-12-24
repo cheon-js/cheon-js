@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Jeong Seok
-- 👀 I’m interested in 
+- 👀 I’m interested in Android
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
 
 <!---
 cheon-js/cheon-js is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
