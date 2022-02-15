@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeong Seok
-- 👀 I’m interested in Android
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Android & Ios
+- 🌱 
 
 
 <!---
